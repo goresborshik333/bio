@@ -2,6 +2,6 @@ name: anonym
 
 age: anonym
 
-Speciality: Junior sys. admin, dolbaeb
+Speciality: Middle sys. admin, dolbaeb
 
 Languages: Python, Bash
